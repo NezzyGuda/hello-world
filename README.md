@@ -1,2 +1,6 @@
 # hello-world
-My first repository.
+
+Hello Basement Dwellers,
+
+This is my attempt at learning version control.
+Wish me luck!
